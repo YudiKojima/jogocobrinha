@@ -1,6 +1,7 @@
 programa
 {
-	inclua biblioteca Graficos --> g
+	
+	inclua biblioteca Graficos --> g
 	inclua biblioteca Util --> u
 	inclua biblioteca Teclado --> t
 
